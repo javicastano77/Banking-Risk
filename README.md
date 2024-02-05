@@ -32,10 +32,10 @@ El proceso definido para este proyecto se desglosa en estos pasos:
 * ii. transformación de los datos: mejora de la consistencia, normalización de datos, etc.
 * iii. análisis de las variables: estudio del compartamiento del target en base a las variables sociodemográficas y numéricas.
 * iv. identificación de la correlación entre targets: identificar aquellos parámetros y condiciones que mayor grado de explicación tienen para la clasificación de los perfiles **Alto riesgo** y **Bajo Riesgo**.
-* v. establecimiento de parámetros propios: establecer las características que definen a los perfiles
-* vi. comparativa de clasificación original y modelo 1: generación de nueva variable de clasificación y testeo con tabla de contingencia y matriz de confusión su usabilidad
-* vii. aplicación de cálculos tradicionales de riesgos: analísis del modelo de cálculo de riesgo de crédito estandar y aplicación a la dataset tratada
-* viii. comparativa de clasificación original y modelo 2: generación de nueva variables en base a ese cálculo y testeo nuevamente
+* v. establecimiento de parámetros propios: establecer las características que definen a los perfiles.
+* vi. comparativa de clasificación original y modelo 1: generación de nueva variable de clasificación y testeo con tabla de contingencia y matriz de confusión su usabilidad.
+* vii. aplicación de cálculos tradicionales de riesgos: analísis del modelo de cálculo de riesgo de crédito estandar y aplicación a la dataset tratada.
+* viii. comparativa de clasificación original y modelo 2: generación de nueva variables en base a ese cálculo y testeo nuevamente.
 
 ## 4. Uso
 
