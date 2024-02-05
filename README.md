@@ -22,11 +22,11 @@ El proyecto está dividido en 3 objetivos principales:
 
 2 - Establecer una nueva clasificación de estos perfiles, tras el análisis realizado en el paso previo.
 
-3- Realizar una comparativa entre la clasificación original y la nueva, comprobando el acierto y la reobustez del modelo generado.
+3- Realizar una comparativa entre la clasificación original y la nueva, comprobando el acierto y la robustez del modelo generado.
 
 ## 3. Proceso
 
-El proceso definido en este proyecto se desglosa en estos pasos:
+El proceso definido para este proyecto se desglosa en estos pasos:
 
 * i. Limpieza de los datos: chequeo de valores nulos, duplicados y dtype.
 * ii. transformación de los datos: mejora de la consistencia, normalización de datos, etc.
